@@ -1,3 +1,10 @@
 .green {
     color: green;
+    border:solid 1px red ;
+    width: 400px;
+    padding: 5px;
+}
+
+a:hover {
+    color: salmon;
 }
